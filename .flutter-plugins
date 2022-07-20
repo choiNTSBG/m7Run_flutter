@@ -1,11 +1,11 @@
 # This is a generated file; do not edit or check into version control.
-device_info_plus=/Users/rhylvindaleb.tinador/Desktop/rhylvin/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus-4.0.1/
-device_info_plus_linux=/Users/rhylvindaleb.tinador/Desktop/rhylvin/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_linux-2.1.1/
-device_info_plus_macos=/Users/rhylvindaleb.tinador/Desktop/rhylvin/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_macos-2.2.3/
-device_info_plus_web=/Users/rhylvindaleb.tinador/Desktop/rhylvin/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_web-2.1.0/
-device_info_plus_windows=/Users/rhylvindaleb.tinador/Desktop/rhylvin/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_windows-3.0.1/
-health=/Users/rhylvindaleb.tinador/Desktop/rhylvin/flutter/.pub-cache/hosted/pub.dartlang.org/health-4.1.1/
-permission_handler=/Users/rhylvindaleb.tinador/Desktop/rhylvin/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-10.0.0/
-permission_handler_android=/Users/rhylvindaleb.tinador/Desktop/rhylvin/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler_android-10.0.0/
-permission_handler_apple=/Users/rhylvindaleb.tinador/Desktop/rhylvin/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler_apple-9.0.4/
-permission_handler_windows=/Users/rhylvindaleb.tinador/Desktop/rhylvin/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler_windows-0.1.0/
+device_info_plus=C:\\flutterSource\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\device_info_plus-4.0.1\\
+device_info_plus_linux=C:\\flutterSource\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\device_info_plus_linux-2.1.1\\
+device_info_plus_macos=C:\\flutterSource\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\device_info_plus_macos-2.2.3\\
+device_info_plus_web=C:\\flutterSource\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\device_info_plus_web-2.1.0\\
+device_info_plus_windows=C:\\flutterSource\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\device_info_plus_windows-3.0.1\\
+health=C:\\flutterSource\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\health-4.1.1\\
+permission_handler=C:\\flutterSource\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\permission_handler-10.0.0\\
+permission_handler_android=C:\\flutterSource\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\permission_handler_android-10.0.0\\
+permission_handler_apple=C:\\flutterSource\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\permission_handler_apple-9.0.4\\
+permission_handler_windows=C:\\flutterSource\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\permission_handler_windows-0.1.0\\
